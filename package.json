@@ -1,0 +1,22 @@
+{
+    "name":            "tiny-dns",
+    "version":         "0.2.0",
+    "description":     "A little DNS server.",
+    "bin":             "./index.js",
+    "dependencies":    {
+        "native-dns": "0.7.x",
+        "node-watch": "0.3.x"
+    },
+    "devDependencies": {},
+    "scripts":         {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author":          "André König (andre.koenig@posteo.de)",
+    "contributors":    [
+        {
+            "name":  "Alexander Thiel",
+            "email": "alexander@homedesignsolutions.de"
+        }
+    ],
+    "license":         "MIT"
+}
