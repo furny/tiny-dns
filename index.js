@@ -3,13 +3,12 @@
 /*
  * tiny-dns
  *
- * Copyright(c) 2014 André König <andre.koenig@posteo.de>
  * Copyright(c) 2015 by HDS Home Design Solutions GmbH
  * MIT Licensed
  */
 
 /**
- * @author André König <andre.koenig@posteo.de>
+ * @author André König <andre@homedesignsolutions.de>
  * @author Alexander Thiel <alexander@homedesignsolutions.de>
  *
  */
